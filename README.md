@@ -112,8 +112,8 @@ Cafe-Book/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/cafe-book.git
-cd cafe-book
+git clone https://github.com/swapnildimble99/Cafe-System.git
+cd Cafe-System
 ```
 
 ---
